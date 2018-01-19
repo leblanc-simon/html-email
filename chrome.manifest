@@ -1,0 +1,4 @@
+content html-email chrome/content/
+overlay chrome://messenger/content/messenger.xul chrome://html-email/content/overlay.xul
+skin    html-email classic/1.0 chrome/skin/
+style   chrome://global/content/customizeToolbar.xul    chrome://html-email/skin/overlay.css

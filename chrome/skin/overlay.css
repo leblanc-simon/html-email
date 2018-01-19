@@ -1,0 +1,3 @@
+#html-email-button, [place="palette"] > #html-email-button {
+    list-style-image: url("chrome://html-email/skin/icon.png") !important;
+}

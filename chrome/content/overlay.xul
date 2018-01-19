@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://html-email/skin/overlay.css" type="text/css" ?>
+
+<overlay id="html-email-overlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <script type="application/x-javascript" src="overlay.js" />
+  <toolbarpalette id="MailToolbarPalette">
+    <toolbarbutton id="html-email-button"
+      class="demo-button toolbarbutton-1"
+      label="Compose HTML"
+      type="button"
+      oncommand="composerInHtml();"
+      />
+  </toolbarpalette>
+</overlay>
